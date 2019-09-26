@@ -1,0 +1,12 @@
+Olá, esse é o meu primeiro projeto com inteligência artificial. Nesse projeto foi construido um chatbot com a junção de dois. O primeiro chatbot foi o do telegram, que ficou para ser a interface de conversa entre a inteligencia e o humano. O segundo chatbot é  responsável por realizar o aprendizado (a inteligencia artificial).
+
+No ínicio, o chatbot ainda não dará respostas muito inteligente. Mas com alguns minutos de conversa.
+
+Ferramentas Necessárias:
+1) Python3;
+2) Gerenciador de pacotes PIP do python
+3) Biblioteca Chateerbot;
+4) Biblioteca Telepot;
+5) Algum editor de texto de sua preferência. Eu utilisei o VSCode.
+
+O primeiro passo é criar um bot no telegram com o BotFather e obter o token que será responsável por fazer a conexão com o telegram. Logo depois basta inserir o seu token na linha 7 e chamar o arquivo bot.py. O projeto foi construido todo com Python 3. Então instale tudo com ele. Depois disso, basta começar a conversar com o bot pelo telegram.
