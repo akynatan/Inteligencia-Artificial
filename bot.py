@@ -4,7 +4,7 @@ from telepot.loop import MessageLoop
 from chatterbot.trainers import ListTrainer
 from chatterbot import ChatBot
 
-tbot = telepot.Bot("965002733:AAEpHdef5nF3QUHGrDFuOktmDkIThu6fClg") #cria o bot responsável por enviar e receber as mensagens do telegram.
+tbot = telepot.Bot("AQUI VAI O SEU TOKEN DO @FATHERBOT DO TELEGRAM") #cria o bot responsável por enviar e receber as mensagens do telegram.
 
 bot = ChatBot('Bot Inteligente') #cria o segundo bot responsável por realizar o aprendizado de maquina.
 
